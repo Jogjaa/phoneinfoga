@@ -17,7 +17,7 @@ You can also do it from the terminal (UNIX systems only) :
 
 ```
 # Add --help at the end of the command for a list of install options
-bash <( curl -sSL https://raw.githubusercontent.com/sundowndev/phoneinfoga/master/support/scripts/install )
+bash <( curl -sSL https://raw.githubusercontent.com/sundowndev/phoneinfoga/master/support/scripts/install )--help
 ```
 
 2. Install it globally
